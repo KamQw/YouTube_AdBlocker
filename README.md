@@ -1,3 +1,5 @@
 # YouTube_AdBlocker
-Copy the RAW URL of YouTube_AdBlocker and paste in ShadowRocket
-This conf is mainly blocking the Ad of Youtube in IOS。
+This configuration is mainly blocking the ads on YouTube in iOS with the PiP function.
+Copy the raw URL of YouTube_AdBlocker and paste it into ShadowRocket.
+https://raw.githubusercontent.com/KamQw/YouTube_AdBlocker/main/Shadowrocket_AdBlocker.conf
+
