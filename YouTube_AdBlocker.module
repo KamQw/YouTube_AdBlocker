@@ -1,5 +1,5 @@
-#!name=Block YouTube Advertising
-#!desc=仅用于视频广告
+#!name=YouTube AdBlocker
+#!desc=Only for YouTube videos Ads
 
 [Rule]
 AND,((PROTOCOL,UDP),(DEST-PORT,443)),REJECT-NO-DROP
